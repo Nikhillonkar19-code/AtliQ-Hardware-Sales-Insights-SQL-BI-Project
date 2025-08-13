@@ -106,7 +106,15 @@ Sales Quantity = SUM('sales transactions'[sales_qty])
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Coffee-Shop-Sales.png)
+### 📌 Key Insights
+![Key Insights](https://github.com/Nikhillonkar19-code/AtliQ-Hardware-Sales-Insights-SQL-BI-Project/blob/main/Atliq%20Hardware_page-Key%20Insights.jpg)
+
+### 📌 Performance Insights
+![Performance Insights](https://github.com/Nikhillonkar19-code/AtliQ-Hardware-Sales-Insights-SQL-BI-Project/blob/main/Atliq%20Hardware_page-Performance%20insights.jpg)
+
+### 📌 Profit Analysis
+![Profit Analysis](https://github.com/Nikhillonkar19-code/AtliQ-Hardware-Sales-Insights-SQL-BI-Project/blob/main/Atliq%20Hardware_page-Profit%20Analysis.jpg)
+
 
 ---
 
